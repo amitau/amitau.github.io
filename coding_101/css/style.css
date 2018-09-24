@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.days {
+  display: inline;
+  text-align: center;
+  width: 80px
+  color: white;
+  border: 1px solid white;
+  font family: helvetica;
+  font-size: 20px;
+  margin: 20px;
+  width: 80px;
+  padding: 20px;
+}
+
+#universe {
+  display: block;
+  margin: 0;
+  border: 0px;
+  width: 1250px;
+  height: 800px;
+}
+ul {
+  text-align: center;
+  margin: 0 auto;
+}
+li {
+  width: 80px;
+  display: inline-block;
+  color: white
+  background-color: black
+}
+}
+}
